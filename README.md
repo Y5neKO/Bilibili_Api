@@ -1,2 +1,2 @@
 # Bilibili-Fans-Api
-PHP通过BilibiliApi进行粉丝统计代码.
+PHP通过BilibiliApi进行统计代码.
